@@ -1,0 +1,10 @@
+{
+  "imap_server": "imap.server.com",
+  "email_user": "your_email@example.com",
+  "email_pass": "your_password_here",
+  "mailbox": "INBOX",
+  "batch_size": 500,
+  "throttle_per_email": 0.05,
+  "db_file": "email_archive.db"
+}
+
